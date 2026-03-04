@@ -1,3 +1,6 @@
 streamlit
 openai
 astor
+scikit-learn
+graphviz
+numpy
