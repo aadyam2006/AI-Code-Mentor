@@ -1,7 +1,9 @@
 # 🤖 AI Code Mentor
 
 AI Code Mentor is an AI-powered web application that analyzes source code and helps developers understand it better. It can detect bugs, estimate code complexity, explain logic, and generate flowcharts.
+## 📸 Project Screenshot
 
+![AI Code Mentor Screenshot](project_screenshot.png)
 ## 🚀 Live Demo
 https://aadyam2006-ai-code-mentor-app-1pc4jw.streamlit.app
 
@@ -34,5 +36,6 @@ streamlit run app.py
 
 ## 👩‍💻 Author
 Aadya Mendiratta
+
 
 
